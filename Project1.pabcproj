@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="Project1" MainFile="main.pas" OutputFileName="Project1.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="False" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="main.pas" Path="main.pas" />
+    <Item Type="SourceFile" Name="drawing.pas" Path="drawing.pas" />
+    <Item Type="SourceFile" Name="input.pas" Path="input.pas" />
+    <Item Type="SourceFile" Name="math.pas" Path="math.pas" />
+    <Item Type="SourceFile" Name="buttons.pas" Path="buttons.pas" />
+    <Item Type="SourceFile" Name="AI.pas" Path="AI.pas" />
+    <Item Type="SourceFile" Name="visuals.pas" Path="visuals.pas" />
+    <Item Type="SourceFile" Name="saves.pas" Path="saves.pas" />
+    <Item Type="SourceFile" Name="game.pas" Path="game.pas" />
+    <Item Type="SourceFile" Name="saveState.pas" Path="saveState.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>
